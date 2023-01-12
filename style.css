@@ -41,3 +41,15 @@ h2,
 li {
   color: #f9f8ff;
 }
+
+
+.cta{
+background: linear-gradient(#8e86b5, #acaeed);
+color: white;  
+border-radius: 50px ;
+}
+
+.bordure{
+border-right: 1px solid  #A5B4FC ;
+border-bottom: 1px solid #A5B4FC ;
+}
