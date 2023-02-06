@@ -82,3 +82,13 @@ section {
   width: 50%;
   margin: auto;
 }
+
+nav{
+display: flex;
+justify-content: space-between;
+}
+
+#entete{
+display: flex;
+
+}
